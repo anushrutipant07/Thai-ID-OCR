@@ -1,0 +1,36 @@
+
+body {
+  background-color: rgba(33, 44, 55, 0.689);
+}
+
+h1{
+  font-size: 60px;
+  color: #000000;
+  align-items: center;
+  text-align: center;
+  padding-top: 0.6%;
+  padding-bottom: 0.4%;
+}
+
+
+#uploader {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  padding: 1%;
+  margin-top: 100px;
+}
+#image {
+  text-align: center;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid black;
+  margin-inline: 20px;
+}
+#btnSubmit {
+  background-color: black;
+  cursor: pointer;
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 10px;
+}
